@@ -1,0 +1,6 @@
+138_task1.o
+138_tas1.exe
+138_task2.o
+138_tas2.exe
+138_task3.o
+138_tas3.exe
